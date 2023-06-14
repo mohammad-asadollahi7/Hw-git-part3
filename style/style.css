@@ -1,0 +1,21 @@
+@font-face{
+    font-family: yekan;
+    src: url(../fonts/yekan.ttf);
+    font-weight: normal;
+}
+
+
+
+*{
+    direction: rtl;
+    font-family: yekan;
+    font-size: 100%;
+}
+
+.color-container{
+    background-color: rgb(238, 238, 238);
+}
+
+.rows-color{
+    background-color: rgb(255, 252, 252);
+}
